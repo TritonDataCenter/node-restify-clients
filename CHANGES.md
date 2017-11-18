@@ -2,7 +2,7 @@
 
 ## not yet released
 
-(nothing yet)
+- Add support for `before` and `after` hooks on client requests.
 
 ## 1.6.0
 
